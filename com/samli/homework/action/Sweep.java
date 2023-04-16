@@ -1,4 +1,4 @@
-package com.samli.homework.entity;
+package com.samli.homework.action;
 
 import java.util.*;
 
